@@ -18,10 +18,10 @@
 
 <div align="center">
   
-  <a href="linkedin.com/in/alvis-apins" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104777801/181637934-b697c28c-f2c8-4912-a615-b33ed31b905b.svg" height="30" width="40" /></a>
-  
-  <br><br>
-  <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.PDF">CV</a><br><br>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in" width="15" height="15"/> 
+  <a href="linkedin.com/in/alvis-apins">Linkedin</a><br>
+  <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.PDF">CV</a><br>
   <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com  </p>
   <a> :telephone_receiver: - +371 20036484 </a><br>
 </div>
