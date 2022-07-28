@@ -19,7 +19,7 @@
 <div align="center">
   <img href="linkedin.com/in/alvis-apins" src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" width="100"/><br><br>
   <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.PDF">CV</a><br><br>
-  <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins@gmail.com  </p>
+  <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com  </p>
   <a> :telephone_receiver: - +371 20036484 </a><br>
 </div>
 
