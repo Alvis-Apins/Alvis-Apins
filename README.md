@@ -16,15 +16,35 @@
 
 <h3 align="center"> Contacts & Info </h3>
 
-<div align="center">
-  
 
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in" width="15" height="15"/> 
-  <a href="https://www.linkedin.com/in/alvis-apins">Linkedin</a><br>
-  <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.pdf">CV</a><br>
-  <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com  </p>
-  <a> :telephone_receiver: - +371 20036484 </a><br>
-</div>
+  <table align="center" border="0">
+ <tr>
+    <td><b style="font-size:30px">Info and Contacts</b></td>
+    <td><b style="font-size:30px">References</b></td>
+ </tr>
+ <tr>
+    <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in" width="15" height="15"/> 
+        <a href="https://www.linkedin.com/in/alvis-apins">Linkedin</a><br>
+        <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.pdf">CV</a><br>
+        <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com  </p>
+        <a> :telephone_receiver: - +371 20036484 </a><br> 
+    </td>
+    <td>
+      <li>Sandris Artemjevs - “Codelex”
+managing director
++371 29797471</li>
+        <li>Jānis Gitendorfs -
+linkedin.com/in/janis-gitendorfs</li>
+          <img src="https://user-images.githubusercontent.com/104777801/181647736-eff6311d-10dc-4d94-8433-c98ef10d0f78.png" alt="CODELEX" width="150"/> 
+        <a href="https://www.codelex.io/uznemumiem</a>
+    </td>
+        
+        
+ </tr>
+</table>
+
+
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
