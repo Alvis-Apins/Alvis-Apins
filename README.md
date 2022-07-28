@@ -21,7 +21,7 @@
 
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in" width="15" height="15"/> 
   <a href="https://www.linkedin.com/in/alvis-apins">Linkedin</a><br>
-  <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.PDF">CV</a><br>
+  <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.pdf">CV</a><br>
   <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com  </p>
   <a> :telephone_receiver: - +371 20036484 </a><br>
 </div>
