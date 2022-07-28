@@ -24,24 +24,27 @@
  </tr>
  <tr>
     <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in" width="15" height="15"/> 
-        <a href="https://www.linkedin.com/in/alvis-apins">Linkedin</a><br>
-        <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.pdf">CV</a><br>
-        <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com  </p>
+      <a href="https://www.linkedin.com/in/alvis-apins"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50"/></a><br>
+        :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.pdf">CV</a><br>
+        <a><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins.it@gmail.com</a><br>
         <a> :telephone_receiver: - +371 20036484 </a><br> 
     </td>
     <td>
-      <li>Sandris Artemjevs - “Codelex”
-managing director
-+371 29797471</li>
-        <li>Jānis Gitendorfs -
-linkedin.com/in/janis-gitendorfs</li>
-          <img src="https://user-images.githubusercontent.com/104777801/181647736-eff6311d-10dc-4d94-8433-c98ef10d0f78.png" alt="CODELEX" width="150"/> 
-        <a href="https://www.codelex.io/uznemumiem</a>
-    </td>
-        
-        
- </tr>
+      <li>
+        Sandris Artemjevs - “Codelex” managing director +371 29797471
+      </li>
+      <li>
+        Jānis Gitendorfs - <a href="https://www.linkedin.com/in/janis-gitendorfs"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="20"/></a>
+      </li>
+      <li>
+        <a href="https://www.codelex.io/uznemumiem"><img src="https://user-images.githubusercontent.com/104777801/181649011-6b9f75e5-7ffe-4a74-b2c0-2b1f53986f76.png" width="70"/></a>
+      </li>
+      
+      
+ 
+   
+   </td>
+</tr>
 </table>
 
 
