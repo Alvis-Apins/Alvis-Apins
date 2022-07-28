@@ -62,27 +62,15 @@
 </table>
 
 
-  
-  
-  
-
-
-  
-
-  
-  
-
-  
-
-
 
 <hr style="width:50%;text-align:left;margin-left:0">  
   
 ## :open_file_folder: Projects ##
 <p align="center">
-<p>
 
-
+  <a href="https://github.com/Alvis-Apins/Alvis-Apins">
+  <img src=newsPage.gif alt=News_Site width="250"/>
+  </a>
 
 
 </p>
