@@ -14,15 +14,15 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 
-<h3 align="center"> Info </h3>
+<h3 align="center"> Contacts & Info </h3>
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" width="100"/> 
-  
-  
-  <br>
-  <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins@gmail.com  </p>
-</p>
+<div align="center">
+  <img href="linkedin.com/in/alvis-apins" src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" width="100"/><br><br>
+  <a> :clipboard: - <a href="https://github.com/Alvis-Apins/Alvis-Apins/blob/main/Alvis_Apins_CV.PDF">CV</a><br><br>
+  <p><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="20"/>  alvis.apins@gmail.com  </p>
+  <a> :telephone_receiver: - +371 20036484 </a><br>
+</div>
+
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <table align="center" border="0">
@@ -66,11 +66,14 @@
 <hr style="width:50%;text-align:left;margin-left:0">  
   
 ## :open_file_folder: Projects ##
-<p align="center">
-
+<div align="center">
+  <p> 
+  News page that uses API to get latest news and Weather info.<br>
+  Allows to display only Police/Fireman/Environment related news <br>
+  </p>
   <a href="https://github.com/Alvis-Apins/Alvis-Apins">
   <img src=newsPage.gif alt=News_Site width="250"/>
   </a>
 
 
-</p>
+</div>
