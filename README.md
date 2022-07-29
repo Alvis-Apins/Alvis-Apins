@@ -95,7 +95,7 @@
 <div align="center">
   <p> 
   News page that uses API to get latest news and Weather info.<br>
-  Allows to display only Police/Fire-men/Environment related news <br>
+  Allows to display only Police/Fireman/Environment related news <br>
   </p>
   <a href="https://github.com/Alvis-Apins/Alvis-Apins">
   <img src=newsPage.gif alt=News_Site width="250"/>
