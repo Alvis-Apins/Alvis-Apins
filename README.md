@@ -94,11 +94,10 @@
 ## :open_file_folder: Projects ##
 <div align="center">
   <p> 
-  News page that uses API to get latest news and Weather info.<br>
-  Allows to display only Police/Fireman/Environment related news <br>
+  News page<br>
   </p>
   <a href="https://github.com/Alvis-Apins/NewsSite">
-  <img src=newsPage.gif alt=News_Site width="250"/>
+  <img src=https://user-images.githubusercontent.com/104777801/183519357-f4e27888-35f4-4655-9d5e-380810af0548.gif alt=News_Site width="250"/>
   </a>
 
 
