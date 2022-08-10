@@ -97,7 +97,7 @@
   News page that uses API to get latest news and Weather info.<br>
   Allows to display only Police/Fireman/Environment related news <br>
   </p>
-  <a href="https://github.com/Alvis-Apins/Alvis-Apins">
+  <a href="https://github.com/Alvis-Apins/NewsSite">
   <img src=newsPage.gif alt=News_Site width="250"/>
   </a>
 
