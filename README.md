@@ -61,6 +61,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="50" height="50"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50" height="50"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" height="50"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" width="50" height="50"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
       <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" width="50" height="50"/>
       <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50"/>
@@ -79,10 +80,8 @@
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" width="50" height="50"/>
       <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50" height="50"/>
       <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/bentley-1.svg" width="50" height="50"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/esri-3.svg" width="50" height="50"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50"/>
     </td>
  </tr>
 </table>
