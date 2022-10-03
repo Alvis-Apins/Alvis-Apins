@@ -97,18 +97,18 @@
   Crypto Site<br>
   </p>
   <a href="https://github.com/Alvis-Apins/CryptoSite">
-  ![Screenshot from 2022-09-15 05-17-08](https://user-images.githubusercontent.com/104777801/193598107-6b146e0a-0b66-424c-bfd5-6534cdcc3bca.png)
+    <img src="https://user-images.githubusercontent.com/104777801/193598107-6b146e0a-0b66-424c-bfd5-6534cdcc3bca.png">
   </a>
   <p> 
   CV editor<br>
   </p>
   <a href="https://github.com/Alvis-Apins/CvEditor">
-  ![Screenshot from 2022-10-03 00-18-37](https://user-images.githubusercontent.com/104777801/193598274-8bde3899-87e3-4b28-bf9d-16b7eadf5902.png)
+    <img src="https://user-images.githubusercontent.com/104777801/193598274-8bde3899-87e3-4b28-bf9d-16b7eadf5902.png">
   </a>
   Client and Order Handling<br>
   </p>
   <a href="https://github.com/Alvis-Apins/ClientsAndOrders">
-  ![Screenshot from 2022-09-08 12-44-55](https://user-images.githubusercontent.com/104777801/193598483-b8c03598-09dc-4fcd-bf76-505df703a1df.png)
+  <img src="https://user-images.githubusercontent.com/104777801/193598483-b8c03598-09dc-4fcd-bf76-505df703a1df.png">
   </a>
 
 </div>
