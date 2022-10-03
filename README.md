@@ -92,21 +92,21 @@
   
 ## :open_file_folder: Projects ##
 <div align="center">
-  ---
+<hr style="width:50%;text-align:left;margin-left:0">
   <p> 
   Crypto Site<br>
   </p>
   <a href="https://github.com/Alvis-Apins/CryptoSite">
     <img src="https://user-images.githubusercontent.com/104777801/193598107-6b146e0a-0b66-424c-bfd5-6534cdcc3bca.png">
   </a>
-  ---
+<hr style="width:50%;text-align:left;margin-left:0">
   <p> 
   CV editor<br>
   </p>
   <a href="https://github.com/Alvis-Apins/CvEditor">
     <img src="https://user-images.githubusercontent.com/104777801/193598274-8bde3899-87e3-4b28-bf9d-16b7eadf5902.png">
   </a>
-  ---
+<hr style="width:50%;text-align:left;margin-left:0">
   <p>
   Client and Order Handling<br>
   </p>
